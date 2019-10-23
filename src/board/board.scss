@@ -82,3 +82,16 @@
       color: #146c80;
     }
   }
+
+  @media only screen and (max-width: 480px){
+
+    .board{
+      box-shadow: none;
+    }
+    .neon-blue{
+      font-size: 60px;;
+    }
+    .neon-orange{
+      font-size: 60px;
+    }
+  }
